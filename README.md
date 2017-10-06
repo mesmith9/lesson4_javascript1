@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October 5, 2017
 
 ### Student Name:  
-(First and Last Name)
+Mary Smith
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In Lesson 4, I learned about the many functions, syntax, rules and structure for 
+coding JavaScript.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://mesmith9.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1. I learned the importance of being consistent in variable names and being case sensitive to avoid coding errors. 
+2. I learned how to concatenate strings and strings, strings and numbers, and how to add numbers with numbers using JavaScript.
+3. I learned the use of the various assignment operators and how they are used to assign the values for variables.
